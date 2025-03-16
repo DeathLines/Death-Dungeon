@@ -1,4 +1,4 @@
 # Death-Dungeon
 
-Küçük eğlenceli olmayan bir TextRPG oyunu. Kendimi geliştirmek için yaptığım süssüz Death Dungeon.
+Hikayesiz, dungeonlara girip gelişip güçlenme tarzında bir TextRPG oyunu
 
